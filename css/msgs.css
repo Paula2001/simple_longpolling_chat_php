@@ -1,0 +1,11 @@
+.container{
+    height: 400px !important;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.message{
+    word-break: break-word;
+}
+body{
+    overflow-x: hidden;
+}
